@@ -1,0 +1,1 @@
+CREATE ./tests/files/zeroes output/zeroes_create ./tests/expected/zeroes_create 0 0

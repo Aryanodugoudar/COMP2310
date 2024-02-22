@@ -1,0 +1,1 @@
+PRINT ./tests/expected/zeroes_create ./output/zeroes_print ./tests/files/zeroes 0 0

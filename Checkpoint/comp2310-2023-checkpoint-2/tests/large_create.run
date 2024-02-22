@@ -1,0 +1,1 @@
+CREATE ./tests/files/large ./output/large_create ./tests/expected/large_create 0 0
